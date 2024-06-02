@@ -1,0 +1,37 @@
+body{ 
+   background-color: rgb(255, 255, 255); 
+}
+
+.lena{ 
+
+   
+   h4{
+      text-align: center;
+      font-size: 60px;
+      font-family: 'Franklin Gothic Medium';
+      font-weight: bold;
+      color: rgb(235, 75, 75); 
+   }
+   h2{ 
+      text-align: center;
+      font-size: 25px;
+      font-family: Verdana;
+      font-weight: bold;
+      color: rgb(235, 75, 75);    
+   }
+   h1{ 
+      text-align: center;
+      font-size: 20px;
+      font-family: Verdana;
+      font-weight: bold;
+      color: rgb(235, 75, 75); 
+   }
+   h3{
+      text-align: right;
+      font-size: 40px;
+      font-family: 'Franklin Gothic Medium';
+      font-weight: bold;
+      color: rgb(235, 75, 75); 
+      padding-right: 50px;
+   }
+}
